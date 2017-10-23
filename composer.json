@@ -10,6 +10,11 @@
   "require": {
     "php": ">=5.5.9",
     "symfony/symfony": "~2.8|~3.0",
-    "konradpodgorski/command-bus": "^0.2"
+    "konradpodgorski/command-bus": "dev-master"
+  },
+  "extra": {
+    "branch-alias": {
+        "dev-master": "0.3.x-dev"
+    }
   }
 }
